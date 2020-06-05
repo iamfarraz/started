@@ -1,4 +1,3 @@
 # started
-basic programs of java
-check sudoku and tic tac game in thier
+Tic tac game and demonstration of it how to play
 
