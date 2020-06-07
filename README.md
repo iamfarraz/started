@@ -1,4 +1,5 @@
 # started
+See this readme in Raw plzz :)
 Tic tac game and demonstration of it how to play
 First player to be played As:X,
 Second player to be played As:O,
